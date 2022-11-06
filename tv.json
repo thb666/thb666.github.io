@@ -4,7 +4,7 @@
  ##   🐺👬🐛🎸🎤🎯🍀🌸🐉🐜🐝💢
 
 {
-    "spider":"https://thb666.github.io/cs.jar;md5;bccd3c15e3a911533650607f505e3b48",
+    "spider":"./cs.jar;md5;bccd3c15e3a911533650607f505e3b48",
     
     "lives" : [
             {
@@ -13,7 +13,7 @@
                     {
                     "name" : "live",
                     "urls" : [
-                        "proxy://do=live&type=txt&ext=https://thb666.github.io/iptv.txt"]
+                        "proxy://do=live&type=txt&ext=./iptv.txt"]
                 }]
         }],
         
@@ -200,7 +200,7 @@
     ],
     
     
-    "rules" : [
+   "rules" : [
             {
             "host" : "www.djuu.com",
             "rule" : [
@@ -255,8 +255,6 @@
                 "key=",
                 "path="]
         }],
-
-
     "parses" : [
             {
             "name" : "Json聚合",
@@ -543,8 +541,6 @@
             "type" : 0,
             "url" : "https://jx.parwix.com:4433/player/?url="
         }],
-
-
     "flags" : [
         "youku",
         "qq",
@@ -556,8 +552,6 @@
         "pptv",
         "mgtv",
         "wasu"],
-
-
     "ijk" : [
             {
             "group" : "软解码",
@@ -717,8 +711,6 @@
                     "value" : "1"
                 }]
         }],
-
-
     "ads" : [
         "mimg.0c1q0l.cn",
         "www.googletagmanager.com",
