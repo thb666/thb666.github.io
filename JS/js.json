@@ -2,13 +2,6 @@
     "spider" : "./w.jar",
     "sites" : [
             {
-            "key" : "drpy_js_豆瓣",
-            "name" : "聚合|豆瓣[DRPY]",
-            "type" : 3,
-            "api" : "./lib/drpy.min.js",
-            "ext" : "./js/豆瓣.js"
-        },
-            {
             "key" : "drpy_js_360影视",
             "name" : "官源|360[DRPY]",
             "type" : 3,
@@ -258,6 +251,20 @@
             "type" : 3,
             "api" : "./lib/drpy.min.js",
             "ext" : "./js/歪片星球.js"
+        },
+            {
+            "key" : "drpy_js_BD影视",
+            "name" : "BD影视[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/BD影视.js"
+        },
+            {
+            "key" : "drpy_js_2099电影",
+            "name" : "2099电影[DRPY]",
+            "type" : 3,
+            "api" : "./lib/drpy.min.js",
+            "ext" : "./js/2099电影.js"
         },
             {
             "key" : "drpy_js_落攻阁影视",
@@ -1316,16 +1323,6 @@
             "url" : "Sequence"
         },
             {
-            "name" : "江湖1080",
-            "type" : 1,
-            "url" : "http://211.99.99.236:4567/jhjson/ceshi.php?url="
-        },
-            {
-            "name" : "rx2",
-            "type" : 1,
-            "url" : "http://rxjx.kuanjv.com/allm3u8.php?url="
-        },
-            {
             "name" : "keyu",
             "type" : 1,
             "url" : "http://newjiexi.gotka.top/keyu3.php?url=",
@@ -1334,6 +1331,16 @@
                     "User-Agent" : "okhttp/4.1.0"
                 }
             }
+        },
+            {
+            "name" : "莫为",
+            "type" : 1,
+            "url" : "http://jx.vipmv.co/json.php?token=123457&url="
+        },
+            {
+            "name" : "rx2",
+            "type" : 1,
+            "url" : "http://rxjx.kuanjv.com/allm3u8.php?url="
         },
             {
             "name" : "荣兴",

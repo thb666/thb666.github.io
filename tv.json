@@ -19,13 +19,7 @@
         
         
     "sites" : [
-            {
-            "key" : "drpy_js_豆瓣",
-            "name" : "豆瓣热播(长按可搜索)",
-            "type" : 3,
-            "api" : "./JS/lib/drpy.min.js",
-            "ext" : "./JS/js/豆瓣.js"
-        },
+           
             {
             "key" : "drpy_js_360影视",
             "name" : "🌈360影视",
@@ -277,16 +271,6 @@
             "url" : "Sequence"
         },
             {
-            "name" : "江湖1080",
-            "type" : 1,
-            "url" : "http://211.99.99.236:4567/jhjson/ceshi.php?url="
-        },
-            {
-            "name" : "rx2",
-            "type" : 1,
-            "url" : "http://rxjx.kuanjv.com/allm3u8.php?url="
-        },
-            {
             "name" : "keyu",
             "type" : 1,
             "url" : "http://newjiexi.gotka.top/keyu3.php?url=",
@@ -295,6 +279,16 @@
                     "User-Agent" : "okhttp/4.1.0"
                 }
             }
+        },
+            {
+            "name" : "莫为",
+            "type" : 1,
+            "url" : "http://jx.vipmv.co/json.php?token=123457&url="
+        },
+            {
+            "name" : "rx2",
+            "type" : 1,
+            "url" : "http://rxjx.kuanjv.com/allm3u8.php?url="
         },
             {
             "name" : "荣兴",
