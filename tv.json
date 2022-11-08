@@ -4,7 +4,7 @@
  ##   🐺👬🐛🎸🎤🎯🍀🌸🐉🐜🐝💢
 
 {
-    "spider":"http://xn--cdun98c.tk:86/api/v3/file/get/113/cs.jar?sign=GUdSp4a6PxlI8AY2x0Obe6PsCuUEHSp3KZJ-ypKQLJ4%3D%3A0;md5;bccd3c15e3a911533650607f505e3b48",
+    "spider":"http://xn--cdun98c.tk:86/api/v3/file/get/133/top98.jar?sign=-2mXzSmlPf53ta0z9ugUEkZKt3y1Rv3Re0E_tOi09ZU%3D%3A0;md5;3424fd7d434e4fd8da89203ac54b0540",
     
     "lives" : [
             {
@@ -119,16 +119,7 @@
             "ext" : "./JS/js/在线之家.js"
         },
             
-           {
-            "key": "Gitcafe",
-            "name": "小纸条(爬虫)",
-            "type": 3,
-            "api": "csp_Gitcafe",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://kebedd69.github.io/TVbox-interface/token.json"
-        },
+          
            
             {
             "key" : "drpy_js_兔小贝",
@@ -140,57 +131,69 @@
             
            
         {
-            "key": "Zhaozy",
-            "name": "找资源(仅搜索)",
-            "type": 3,
-            "api": "csp_Zhaozy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://kebedd69.github.io/TVbox-interface/token.json"
-        },
-        {
-            "key": "AliPS",
-            "name": "盘搜(仅搜索)",
-            "type":3,
-            "api":"csp_AliPS",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext": "https://kebedd69.github.io/TVbox-interface/token.json"
-        },
-        {
-            "key": "Upyunso",
-            "name": "云搜(仅搜索)",
-            "type": 3,
-            "api": "csp_Upyunso",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://kebedd69.github.io/TVbox-interface/token.json"
-        },
-        {
-            "key": "YiSo",
-            "name": "易搜(仅搜索)",
-            "type":3,
-            "api":"csp_YiSo",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext": "https://kebedd69.github.io/TVbox-interface/token.json"
-        },
-        
+      "key": "Gitcafe",
+      "name": "小纸条(新)",
+      "type": 3,
+      "api": "csp_Gitcafe",
+      "searchable": 1,
+      "playerType": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://kebedd69.github.io/TVbox-interface/token.json;desc"
+    },
+    {
+      "key": "找资源",
+      "name": "找资源",
+      "type": 3,
+      "api": "csp_Zhaozy",
+      "searchable": 1,
+      "playerType": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "upyunsou",
+      "name": "Up云搜",
+      "type": 3,
+      "api": "csp_Upyunso",
+      "searchable": 1,
+      "quickSearch": 1,
+      "playerType": 1,
+      "filterable": 0,
+      "ext": "https://kebedd69.github.io/TVbox-interface/token.json;asc"
+    },
+    {
+      "key": "yisou",
+      "name": "宜搜",
+      "type": 3,
+      "api": "csp_Yisou",
+      "searchable": 1,
+      "quickSearch": 1,
+      "playerType": 1,
+      "filterable": 0
+    },
+    {
+      "key": "AliPS",
+      "name": "AliPS",
+      "type": 3,
+      "api": "csp_AliPS",
+      "searchable": 1,
+      "playerType": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "push_agent",
+      "name": "推送",
+      "type": 3,
+      "api": "csp_PushAgent",
+      "searchable": 1,
+      "quickSearch": 1,
+      "playerType": 1,
+      "filterable": 1,
+      "ext": "https://kebedd69.github.io/TVbox-interface/token.json;desc"
+    }       
        
-        {
-            "key": "推送",
-            "name": "推送",
-            "type":3,
-            "api":"csp_PushAgent",
-            "searchable":0,
-            "quickSearch":0,
-            "filterable":0,
-            "ext": "https://kebedd69.github.io/TVbox-interface/token.json"
-        }
     ],
     
     
