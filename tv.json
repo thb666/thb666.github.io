@@ -20,7 +20,22 @@
         
     "sites" : [
            
+              {
+            "key" : "drpy_js_酷云77",
+            "name" : "👒酷云77",
+            "type" : 3,
+            "api" : "./JS/lib/drpy.min.js",
+            "ext" : "./JS/js/酷云77.js"
+        },
             {
+            "key" : "drpy_js_低端",
+            "name" : "🎥低端影视",
+            "type" : 3,
+            "api" : "./JS/lib/drpy.min.js",
+            "ext" : "./JS/js/ddys.js"
+        },    
+
+       {
             "key" : "drpy_js_360影视",
             "name" : "🌈360影视",
             "type" : 3,
@@ -71,13 +86,7 @@
             "ext" : "./JS/js/鸭奈飞.js"
         },
                        
-            {
-            "key" : "drpy_js_低端",
-            "name" : "🎥低端影视",
-            "type" : 3,
-            "api" : "./JS/lib/drpy.min.js",
-            "ext" : "./JS/js/ddys.js"
-        },
+            
             {
             "key" : "drpy_js_69美剧",
             "name" : "69美剧",
@@ -95,13 +104,7 @@
             
             
             
-            {
-            "key" : "drpy_js_酷云77",
-            "name" : "👒酷云77",
-            "type" : 3,
-            "api" : "./JS/lib/drpy.min.js",
-            "ext" : "./JS/js/酷云77.js"
-        },
+          
              
             {
             "key" : "drpy_js_厂长资源",
