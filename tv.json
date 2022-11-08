@@ -20,7 +20,15 @@
         
     "sites" : [
            
-              {
+               {
+            "key" : "drpy_js_豆瓣",
+            "name" : "搜索|豆瓣[DRPY]",
+            "type" : 3,
+            "api" : "./JS/lib/drpy.min.js",
+            "ext" : "./JS/js/drpy.js"
+        },
+
+            {
             "key" : "drpy_js_酷云77",
             "name" : "👒酷云77",
             "type" : 3,
