@@ -7,17 +7,14 @@
 {
     "spider":"http://home.jundie.top:81/jar/top98.jar;md5;3424fd7d434e4fd8da89203ac54b0540",
     
-    "lives" : [
-            {
-            "group" : "redirect",
-            "channels" : [
-                    {
-                    "name" : "live",
-                    "urls" : [
-                        "proxy://do=live&type=txt&ext=./iptv.txt"],
-	   "epg":"https://epg.112114.eu.org/"
-                }]
-        }],
+    
+     "lives": [
+    {
+      "name": "直播",
+      "type": 0,
+      "url": "./iptv.txt",
+      "epg": "https://epg.112114.eu.org/"
+    },
         
         
     "sites" : [
