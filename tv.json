@@ -14,7 +14,8 @@
                     {
                     "name" : "live",
                     "urls" : [
-                        "proxy://do=live&type=txt&ext=./iptv.txt"]
+                        "proxy://do=live&type=txt&ext=./iptv.txt"],
+	   "epg":"https://epg.112114.eu.org/"
                 }]
         }],
         
