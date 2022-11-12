@@ -14,7 +14,8 @@
       "type": 0,
       "url": "./iptv.txt",
       "epg": "https://epg.112114.eu.org/"
-    }],
+    }
+    ],
         
         
     "sites" : [
