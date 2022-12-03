@@ -1,10 +1,10 @@
 var rule={
-    title:'爱看影视',
-    host:'https://ikan6.vip',
-    url:'/vodtype/fyclass-fypage/',
-    searchUrl:'/vodsearch/**----------fypage---/',
-    class_name:'电影&电视剧&综艺&动漫&日韩剧&美剧&港台剧',
-    class_url:'1&2&3&4&15&16&14',
+    title:'枫林网',
+    host:'https://imaple.app',
+    url:'/type/2-2.html',
+    searchUrl:'/page/fypage/wd/**.html',
+    class_name:'电影&电视剧&综艺&动漫&纪录片&陆剧&港剧&台剧&日剧&韩剧&美剧&海外剧',
+    class_url:'1&2&3&4&20&13&14&15&16&23&24&25',
     searchable:2,//是否启用全局搜索,
     quickSearch:0,//是否启用快速搜索,
     filterable:0,//是否启用分类筛选,
@@ -20,6 +20,6 @@ var rule={
     推荐:'ul.myui-vodlist.clearfix;li;a&&title;.lazyload&&data-original;.pic-text&&Text;a&&href',
     double:true, // 推荐内容是否双层定位
     一级:'.myui-vodlist li;a&&title;.lazyload&&data-original;.pic-text&&Text;a&&href',
-    二级:{"title":".myui-content__detail .title&&Text;.t-muted:eq(-1)&&Text","img":".lazyload&&data-original","desc":";;.myui-content__detail p:eq(2)&&Text;.myui-content__detail p:eq(3)&&Text;.myui-content__detail p:eq(4)&&Text","content":".content&&Text","tabs":".nav-tabs:eq(0) li","lists":".myui-content__list:eq(#id) li"},
+    二级:{"title":".myui-content__detail .title&&Text;.t-muted:eq(-1)&&Text","img":".lazyload&&data-original","desc":";;.myui-content__detail p:eq(2)&&Text;.myui-content__detail p:eq(3)&&Text;.myui-content__detail p:eq(4)&&Text","content":".myui-content__detail p:eq(1)&&Text","tabs":".nav-tabs:eq(0) li","lists":".myui-content__list:eq(#id) li"},
     搜索:'.myui-vodlist__media li;a&&title;*;*;a&&href;.text-muted:eq(-1)&&Text',
 }

@@ -1,10 +1,10 @@
 var rule={
-    title:'爱看影视',
-    host:'https://ikan6.vip',
-    url:'/vodtype/fyclass-fypage/',
-    searchUrl:'/vodsearch/**----------fypage---/',
-    class_name:'电影&电视剧&综艺&动漫&日韩剧&美剧&港台剧',
-    class_url:'1&2&3&4&15&16&14',
+    title:'宅腐影视',
+    host:'https://www.fuju1.tv',
+    url:'/vodshow/fyclass/by/time/page/fypage.html',
+    searchUrl:'/vodsearch**/page/fypage.html',
+    class_name:'腐剧&电影&综艺&动漫',
+    class_url:'Fuju&BLdianying&BLzongyi&BLdongman',
     searchable:2,//是否启用全局搜索,
     quickSearch:0,//是否启用快速搜索,
     filterable:0,//是否启用分类筛选,
@@ -20,6 +20,6 @@ var rule={
     推荐:'ul.myui-vodlist.clearfix;li;a&&title;.lazyload&&data-original;.pic-text&&Text;a&&href',
     double:true, // 推荐内容是否双层定位
     一级:'.myui-vodlist li;a&&title;.lazyload&&data-original;.pic-text&&Text;a&&href',
-    二级:{"title":".myui-content__detail .title&&Text;.t-muted:eq(-1)&&Text","img":".lazyload&&data-original","desc":";;.myui-content__detail p:eq(2)&&Text;.myui-content__detail p:eq(3)&&Text;.myui-content__detail p:eq(4)&&Text","content":".content&&Text","tabs":".nav-tabs:eq(0) li","lists":".myui-content__list:eq(#id) li"},
+    二级:{"title":".myui-content__detail .title&&Text;.t-muted:eq(-1)&&Text","img":".myui-content__thumb&&.lazyload&&data-original","desc":";;.myui-content__detail p:eq(2)&&Text;.myui-content__detail p:eq(3)&&Text;.myui-content__detail p:eq(4)&&Text","content":".content&&Text","tabs":".nav-tabs:eq(0) li","lists":".myui-content__list:eq(#id) li"},
     搜索:'.myui-vodlist__media li;a&&title;*;*;a&&href;.text-muted:eq(-1)&&Text',
 }
