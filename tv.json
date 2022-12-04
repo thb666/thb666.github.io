@@ -5,7 +5,7 @@
  ##   🐺👬🐛🎸🎤🎯🍀🌸🐉🐜🐝💢
 
 {
-    "spider":"./JS/w.jar",
+    "spider":"http://xn--cdun98c.tk:86/api/v3/file/get/133/top98.jar?sign=-2mXzSmlPf53ta0z9ugUEkZKt3y1Rv3Re0E_tOi09ZU%3D%3A0",
     
     
      "lives": [
@@ -24,7 +24,7 @@
             "key" : "drpy_js_豆瓣",
             "name" : "搜索|豆瓣",
             "type" : 3,
-            "api" : "http://home.jundie.top:666/JS/dr_py/libs/drpy.min.js",
+            "api" : "./JS/lib/drpy.min.js",
             "ext" : "./JS/js/drpy.js"
         },
 
@@ -32,57 +32,57 @@
             "key" : "drpy_js_酷云77",
             "name" : "👒酷云77",
             "type" : 3,
-            "api" : "http://home.jundie.top:666/JS/dr_py/libs/drpy.min.js",
+            "api" : "./JS/lib/drpy.min.js",
             "ext" : "./JS/js/酷云77.js"
         },
             {
             "key" : "drpy_js_低端",
             "name" : "🎥低端影视",
             "type" : 3,
-            "api" : "http://home.jundie.top:666/JS/dr_py/libs/drpy.min.js",
-            "ext" : "http://home.jundie.top:666/JS/dr_py/js/ddys.js"
+            "api" : "./JS/lib/drpy.min.js",
+            "ext" : "./JS/js/ddys.js"
         },    
 
        {
             "key" : "drpy_js_360影视",
             "name" : "🌈360影视",
             "type" : 3,
-            "api" : "http://home.jundie.top:666/JS/dr_py/libs/drpy.min.js",
+            "api" : "./JS/lib/drpy.min.js",
             "ext" : "./JS/js/360影视.js"
         },
             {
             "key" : "drpy_js_奇珍异兽",
             "name" : "🥝爱奇艺",
             "type" : 3,
-            "api" : "http://home.jundie.top:666/JS/dr_py/libs/drpy.min.js",
+            "api" : "./JS/lib/drpy.min.js",
             "ext" : "./JS/js/奇珍异兽.js"
         },
             {
             "key" : "drpy_js_优酷",
             "name" : "👑优酷",
             "type" : 3,
-            "api" : "http://home.jundie.top:666/JS/dr_py/libs/drpy.min.js",
+            "api" : "./JS/lib/drpy.min.js",
             "ext" : "./JS/js/优酷.js"
         },
             {
             "key" : "drpy_js_腾云驾雾",
             "name" : "🐧腾讯视频",
             "type" : 3,
-            "api" : "http://home.jundie.top:666/JS/dr_py/libs/drpy.min.js",
+            "api" : "./JS/lib/drpy.min.js",
             "ext" : "./JS/js/腾云驾雾.js"
         },
             {
             "key" : "drpy_js_百忙无果",
             "name" : "🥭芒果TV",
             "type" : 3,
-            "api" : "http://home.jundie.top:666/JS/dr_py/libs/drpy.min.js",
+            "api" : "./JS/lib/drpy.min.js",
             "ext" : "./JS/js/百忙无果.js"
         },
             {
             "key" : "drpy_js_菜狗",
             "name" : "搜狗视频",
             "type" : 3,
-            "api" : "http://home.jundie.top:666/JS/dr_py/libs/drpy.min.js",
+            "api" : "./JS/lib/drpy.min.js",
             "ext" : "./JS/js/菜狗.js"
         },
             
@@ -90,7 +90,7 @@
             "key" : "drpy_js_鸭奈飞",
             "name" : "鸭奈飞",
             "type" : 3,
-            "api" : "http://home.jundie.top:666/JS/dr_py/libs/drpy.min.js",
+            "api" : "./JS/lib/drpy.min.js",
             "ext" : "./JS/js/鸭奈飞.js"
         },
                        
@@ -99,14 +99,14 @@
             "key" : "drpy_js_69美剧",
             "name" : "69美剧",
             "type" : 3,
-            "api" : "http://home.jundie.top:666/JS/dr_py/libs/drpy.min.js",
+            "api" : "./JS/lib/drpy.min.js",
             "ext" : "./JS/js/69美剧.js"
         },    
             {
             "key" : "drpy_js_8号影院",
             "name" : "8号影院",
             "type" : 3,
-            "api" : "http://home.jundie.top:666/JS/dr_py/libs/drpy.min.js",
+            "api" : "./JS/lib/drpy.min.js",
             "ext" : "./JS/js/8号影院.js"
         },
             
@@ -118,7 +118,7 @@
             "key" : "drpy_js_厂长资源",
             "name" : "🏘️厂长资源",
             "type" : 3,
-            "api" : "http://home.jundie.top:666/JS/dr_py/libs/drpy.min.js",
+            "api" : "./JS/lib/drpy.min.js",
             "ext" : "./JS/js/厂长资源.js"
         },
          
@@ -126,7 +126,7 @@
             "key" : "drpy_js_在线之家",
             "name" : "🏠在线之家",
             "type" : 3,
-            "api" : "http://home.jundie.top:666/JS/dr_py/libs/drpy.min.js",
+            "api" : "./JS/lib/drpy.min.js",
             "ext" : "./JS/js/在线之家.js"
         },
             
@@ -136,7 +136,7 @@
             "key" : "drpy_js_兔小贝",
             "name" : "兔小贝儿童",
             "type" : 3,
-            "api" : "http://home.jundie.top:666/JS/dr_py/libs/drpy.min.js",
+            "api" : "./JS/lib/drpy.min.js",
             "ext" : "./JS/js/兔小贝.js"
         },
             
