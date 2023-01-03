@@ -1,6 +1,6 @@
 //http://home.jundie.top:666/token.txt
 //http://home.jundie.top:81/jar/top98.jar
-//https://zdir.kebedd69.repl.co/public/TVBox/.token1.json;asc
+//https://zdir.kebedd69.repl.co/public/TVBox/.token1.json
 ##   ♬♪🥁🎹🏀🏐⚽🧲🗼🏡🚉🍱📺🔍️🔎🍭🍳🗂️🏡🧶🧵🚚🔅💖✨🛩️🗃📚📤🐷🐖🔥👋🏻😭🥝🍊✨👣🎥🏠🐢🌈🏍️✡🎁💰️🍉📑🀄️🍀🏟🚒🍭🐞👀🐼📝👘
  ##   🐺👬🐛🎸🎤🎯🍀🌸🐉🐜🐝💢
 
@@ -35,10 +35,10 @@
 {"key":"drpy_js_8号影院","name":"影视 | 8号影院","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/8号影院.js"},
 {"key" : "drpy_js_厂长资源", "name" : "影视 | 厂长资源", "type" : 3, "api" : "./JS/lib/drpy.min.js", "ext" : "./JS/js/厂长资源.js"},
 {"key":"drpy_js_兔小贝","name":"动漫 | 兔小贝","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/兔小贝.js"},
-{"key": "纸条","name": "阿里 | 纸条","type": 3,"api": "csp_Paper","ext": "https://zdir.kebedd69.repl.co/public/TVBox/.token1.json;asc"},
-{"key": "易搜","name": "阿里 | 易搜","type": 3,"api": "csp_YiSo","ext": "https://zdir.kebedd69.repl.co/public/TVBox/.token1.json;asc"},
-{"key": "盘搜","name": "阿里 | 盘搜","type": 3,"api": "csp_PanSou","ext": "https://zdir.kebedd69.repl.co/public/TVBox/.token1.json;asc"},
-{"key": "push_agent","name": "阿里 | 推送","type": 3,"api": "csp_Push","ext": "https://zdir.kebedd69.repl.co/public/TVBox/.token1.json;asc"}
+{"key": "纸条","name": "阿里 | 纸条","type": 3,"api": "csp_Paper","ext": "https://zdir.kebedd69.repl.co/public/TVBox/.token1.json"},
+{"key": "易搜","name": "阿里 | 易搜","type": 3,"api": "csp_YiSo","ext": "https://zdir.kebedd69.repl.co/public/TVBox/.token1.json"},
+{"key": "盘搜","name": "阿里 | 盘搜","type": 3,"api": "csp_PanSou","ext": "https://zdir.kebedd69.repl.co/public/TVBox/.token1.json"},
+{"key": "push_agent","name": "阿里 | 推送","type": 3,"api": "csp_Push","ext": "https://zdir.kebedd69.repl.co/public/TVBox/.token1.json"}
 
 ],
     
