@@ -21,23 +21,24 @@
         
 "sites" : [
            
+
 {"key":"drpy_js_豆瓣","name":"搜索 | 豆瓣","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/drpy.js"},
-{"key":"drpy_js_酷云七七","name":"影视 | 酷云七七","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/酷云77.js"},
+{"key": "纸条","name": "阿里 | 纸条","type": 3,"api": "csp_Paper","ext": "https://zdir.kebedd69.repl.co/public/TVBox/.token1.json"},
+{"key": "易搜","name": "阿里 | 易搜","type": 3,"api": "csp_YiSo","ext": "https://zdir.kebedd69.repl.co/public/TVBox/.token1.json"},
+{"key": "盘搜","name": "阿里 | 盘搜","type": 3,"api": "csp_PanSou","ext": "https://zdir.kebedd69.repl.co/public/TVBox/.token1.json"},
+{"key":"drpy_js_8号影院","name":"影视 | 8号影院","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/8号影院.js"},
+{"key" : "drpy_js_厂长资源", "name" : "影视 | 厂长资源", "type" : 3, "api" : "./JS/lib/drpy.min.js", "ext" : "./JS/js/厂长资源.js"},
+{"key":"drpy_js_鸭奈飞","name":"影视 | 鸭奈飞","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/鸭奈飞.js"},
+{"key":"drpy_js_69美剧","name":"影视 | 69美剧","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/69美剧.js"},
 {"key" : "drpy_js_低端","name" : "影视 | 低端影视","type" : 3, "api" : "./JS/lib/drpy.min.js", "ext" : "./JS/js/ddys.js"}, 
+{"key":"drpy_js_酷云七七","name":"影视 | 酷云七七","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/酷云77.js"},
 {"key":"drpy_js_360影视","name":"官源 | 360","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/360影视.js"},
 {"key":"drpy_js_奇珍异兽","name":"官源 | 爱奇艺","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/奇珍异兽.js"},
 {"key":"drpy_js_优酷","name":"官源 | 优酷","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/优酷.js"},
 {"key":"drpy_js_腾云驾雾","name":"官源 | 腾讯","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/腾云驾雾.js"},
 {"key":"drpy_js_百忙无果","name":"官源 | 芒果","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/百忙无果.js"},
 {"key":"drpy_js_菜狗","name":"官源 | 搜狗","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/菜狗.js"},
-{"key":"drpy_js_鸭奈飞","name":"影视 | 鸭奈飞","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/鸭奈飞.js"},
-{"key":"drpy_js_69美剧","name":"影视 | 69美剧","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/69美剧.js"},
-{"key":"drpy_js_8号影院","name":"影视 | 8号影院","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/8号影院.js"},
-{"key" : "drpy_js_厂长资源", "name" : "影视 | 厂长资源", "type" : 3, "api" : "./JS/lib/drpy.min.js", "ext" : "./JS/js/厂长资源.js"},
 {"key":"drpy_js_兔小贝","name":"动漫 | 兔小贝","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/兔小贝.js"},
-{"key": "纸条","name": "阿里 | 纸条","type": 3,"api": "csp_Paper","ext": "https://zdir.kebedd69.repl.co/public/TVBox/.token1.json"},
-{"key": "易搜","name": "阿里 | 易搜","type": 3,"api": "csp_YiSo","ext": "https://zdir.kebedd69.repl.co/public/TVBox/.token1.json"},
-{"key": "盘搜","name": "阿里 | 盘搜","type": 3,"api": "csp_PanSou","ext": "https://zdir.kebedd69.repl.co/public/TVBox/.token1.json"},
 {"key": "push_agent","name": "阿里 | 推送","type": 3,"api": "csp_Push","ext": "https://zdir.kebedd69.repl.co/public/TVBox/.token1.json"}
 
 ],
