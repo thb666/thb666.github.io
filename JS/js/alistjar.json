@@ -4,7 +4,6 @@
       "name": "歐逼",
       "server": "https://alistcn.repl.co"
     },
-      
     {
       "name": "小雅",
       "server": "http://alist.xiaoya.pro"
@@ -68,8 +67,6 @@
     {
       "name": "DISK",
       "server": "http://124.222.140.243:8080"
-    }
-
     }
   ]
 }
