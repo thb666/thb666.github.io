@@ -1,7 +1,7 @@
 [
         {
         "name" : "小雅",
-        "server" : "http://alist.xiaoya.pro",
+        "server" : "http://tv.thb666.eu.org:5678",
         "startPage" : "/",
         "showAll" : false,
         "search" : true

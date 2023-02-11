@@ -1,6 +1,4 @@
-//http://home.jundie.top:666/token.txt
-//http://home.jundie.top:81/jar/top98.jar
-//https://zdir.kebedd69.repl.co/public/TVBox/.token1.json
+
 ##   ♬♪🥁🎹🏀🏐⚽🧲🗼🏡🚉🍱📺🔍️🔎🍭🍳🗂️🏡🧶🧵🚚🔅💖✨🛩️🗃📚📤🐷🐖🔥👋🏻😭🥝🍊✨👣🎥🏠🐢🌈🏍️✡🎁💰️🍉📑🀄️🍀🏟🚒🍭🐞👀🐼📝👘
  ##   🐺👬🐛🎸🎤🎯🍀🌸🐉🐜🐝💢
 
@@ -23,14 +21,14 @@
            
 
 {"key":"drpy_js_豆瓣","name":"搜索 | 豆瓣[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js"},
-{"key": "纸条","name": "阿里 | 纸条","type": 3,"api": "csp_Paper","ext": "5644e3bd3a6746f39ea95f3d07525129"},
+{"key": "纸条","name": "阿里 | 纸条","type": 3,"api": "csp_Paper","ext": "./token.txt"},
 {"key": "易搜","name": "阿里 | 易搜","type": 3,"api": "csp_YiSo","ext": "./token.txt"},
 {"key": "盘搜","name": "阿里 | 盘搜","type": 3,"api": "csp_PanSou","ext": "./token.txt"},
-{"key":"AList","name":"网盘 | Alist[jar]","type":3,"api":"csp_AList","ext":"./alistjar.json"},
+//{"key":"AList","name":"网盘 | Alist[jar]","type":3,"api":"csp_AList","ext":"./alistjar.json"},
 {"key":"drpy_js_Alist","name":"网盘 | Alist[js]","type":3,"api":"./lib/alist.min.js","ext":"./alist.json"},
 {"key":"drpy_js_8号影院","name":"影视 | 8号影院[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/8号影院.js"},
 {"key":"drpy_js_厂长资源","name":"影视 | 厂长资源[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/厂长资源.js"},
-{"key":"drpy_js_鸭奈飞","name":"影视 | 鸭奈飞[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/鸭奈飞.js"},
+//{"key":"drpy_js_鸭奈飞","name":"影视 | 鸭奈飞[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/鸭奈飞.js"},
 {"key":"drpy_js_69美剧","name":"影视 | 69美剧[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/69美剧.js"},
 {"key":"drpy_js_低端","name":"影视 | 低端[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/ddys.js"},
 {"key":"drpy_js_酷云七七","name":"影视 | 酷云七七[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/酷云77.js"},

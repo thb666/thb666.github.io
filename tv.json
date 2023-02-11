@@ -3,9 +3,8 @@
  ##   🐺👬🐛🎸🎤🎯🍀🌸🐉🐜🐝💢
 
 {
-    //"spider":"http://xn--cdun98c.tk:86/api/v3/file/get/133/top98.jar?sign=-2mXzSmlPf53ta0z9ugUEkZKt3y1Rv3Re0E_tOi09ZU%3D%3A0",
-
-"spider":"./JS/fm.jar;md5;5f350e3b859432e66db59eebc3ccce78",
+ 
+"spider":"./JS/fm.jar;md5;384628eab024a2a40a57835d2f0684d8",
     
     
      "lives": [
@@ -58,9 +57,12 @@
 //{"name":"Json聚合","type":3,"url":"Demo"},
 //{"name":"Json并发","type":2,"url":"Parallel"},
 //{"name":"Json轮询","type":2,"url":"Sequence"},
-{"name":"懒懒","type":1,"url":"http://lanlan.ckflv.cn/?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}},
-{"name":"cod","type":0,"url":"https://ksksl.codjx.com/?url="},
+//{"name":"懒懒","type":1,"url":"http://lanlan.ckflv.cn/?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}},
+{"name":"猫爪","type":0,"url":"https://jx.zhanlangbu.com/?url="},
+//{"name":"ok","type":0,"url":"https://okjx.cc/?url="},
 {"name":"bozrc","type":0,"url":"https://jx.bozrc.com:4433/player/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","leshi","LS","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":""}}},
+{"name":"不累","type":0,"url":"https://blbfq.f3322.net/player/analysis.php?v=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}},
+{"name":"cod","type":0,"url":"https://ksksl.codjx.com/?url="},
 {"name":"byg解析","type":0,"url":"https://byg.ziqj5.shop/?url="},
 {"name":"xmflv","type":0,"url":"https://jx.xmflv.com/?url="},
 {"name":"365","type":0,"url":"https://chaxun.truechat365.com/?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
